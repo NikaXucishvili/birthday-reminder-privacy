@@ -11,4 +11,4 @@ This app requests access to your contacts to read birthday information for remin
 - You can revoke access anytime in your device settings.  
 
 **Contact:**  
-For questions or concerns, contact: nikoloz.xucishvili655@.com
+For questions or concerns, contact: nikoloz.xucishvili655@gmail.com
